@@ -13,6 +13,7 @@ When I started completing the DailyCodingProblem my coding experiance included:
 7. Lab courses where I was able to use Excel, Python, and Verilog at my dicression
 
 Below is a table of entires for each of the challenges that I've completed, they are in the format of:
+
 Challenge Number, Date, Difficulty(From The Email), My Difficulty Score, Other
 
 **Completed Days:**
