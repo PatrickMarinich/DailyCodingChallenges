@@ -20,9 +20,9 @@ Note: I may complete the challenges out of order if I miss a day, thus the dates
 They will be in order of completion, not nessassarly when they are assigned.
 
 **Completed Days:**
-1. May 23rd 2022, Easy, 2/10, Checking for summed Values in an Array
-2. May 24th 2022, Hard, 3/10, Multiplication of only some Array Elements
-3. May 26th 2022, Hard, 6/10, Looking for consecutive positive integers in an array
+1. May 23rd 2022, Easy, 2/10, Checking for summed values in an Array
+2. May 24th 2022, Hard, 3/10, Multiplication of specific array elements
+3. May 26th 2022, Hard, 6/10, Looking for consecutive positive integers in an unsorted array
 4. May 25th 2022, Medium, 9/10, Binary Tree serialization and deserialization
 
 
@@ -31,4 +31,4 @@ They will be in order of completion, not nessassarly when they are assigned.
 2. My first solution answered the follow up, I am upset with myself that I did not even consider the easier approach by just using division, I think that the tag of HARD from the email led me to think of more complex solutions without even considering easy ones
 3. My idea for the solution came quickly, however broke when repeating numbers were added into the array, finding this solution took me a couple extra minutes, and accounted for the majority of my dev time for this challenge
 4. The most challenging thus far. This may have came from my misintrepretation of using a binary search tree rather than 
-    a binary tree as specified in the problem. I was a bit rusty when creating my insert function. Overall Though but fun! I had to use a ton of recursion which is great practice for sure
+    a binary tree as specified in the problem. I was a bit rusty when creating my insert function. Overall Though but fun! I had to use a ton of recursion which is great practice.
