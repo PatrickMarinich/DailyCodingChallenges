@@ -22,3 +22,5 @@ They will be in order of completion, not nessassarly when they are assigned.
 1. May 23rd 2022, Easy, 2/10, 3/10 to find optimization
 2. May 24th 2022, Hard, 3/10, first solution answered the follow up
 3. May 26th 2022, Hard, 6/10, the idea for the solution came fast however it was tricky to solve the case of repeating numbers
+4. May 25th 2022, Medium, 9/10, the most challenge thus far however this may have came from my misintrepretation of using a binary search tree rather than 
+    a binary tree as specified in the problem. Also I was a bit rusty when creating my insert function. Overall Though but fun!
