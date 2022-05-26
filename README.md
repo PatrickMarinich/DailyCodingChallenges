@@ -15,7 +15,8 @@ When I started completing the DailyCodingProblem my coding experiance included:
 Below is a table of entires for each of the challenges that I've completed, they are in the format of:
 Completed #, Date assigned, Difficulty(From The Email), My Difficulty Score, Other
 
-Note: I may complete the challenges out of order if I miss a day, thus the dates may be out of order. They will be in order of completion, not nessassarly when they are assigned.
+Note: I may complete the challenges out of order if I miss a day, thus the dates may be out of order. 
+They will be in order of completion, not nessassarly when they are assigned.
 
 **Completed Days:**
 1. May 23rd 2022, Easy, 2/10, 3/10 to find optimization
