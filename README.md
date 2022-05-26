@@ -13,8 +13,11 @@ When I started completing the DailyCodingProblem my coding experiance included:
 7. Lab courses where I was able to use Excel, Python, and Verilog at my dicression
 
 Below is a table of entires for each of the challenges that I've completed, they are in the format of:
-Challenge Number, Date, Difficulty(From The Email), My Difficulty Score, Other
+Completed #, Date assigned, Difficulty(From The Email), My Difficulty Score, Other
+
+Note: I may complete the challenges out of order if I miss a day, thus the dates may be out of order. They will be in order of completion, not nessassarly when they are assigned.
 
 **Completed Days:**
-1. May 23rd 2022, Easy, 2/10, (3/10 to find optimization)
-2. May 24th 2022, Hard, 3/10, (first solution answered the follow up)
+1. May 23rd 2022, Easy, 2/10, 3/10 to find optimization
+2. May 24th 2022, Hard, 3/10, first solution answered the follow up
+3. May 26th 2022, Hard, 6/10, the idea for the solution came fast however it was tricky to solve the case of repeating numbers
