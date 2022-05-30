@@ -1,5 +1,5 @@
 # DailyCodingChallenges
-A Place where I upload my solutions to a daily coding challenge that I've Completed
+A Place where I upload my solutions to a daily coding challenge that I create from a challenge problem I am given from a mailing list.
 
 The challenges come from the mailing list of DailyCodingProblem.com, I will include the possible solution that I came up with each day that I complete the challenge.
 
