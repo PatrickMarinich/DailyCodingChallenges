@@ -24,6 +24,7 @@ They will be in order of completion, not nessassarly when they are assigned.
 2. May 24th 2022, Hard, 3/10, Multiplication of specific array elements
 3. May 26th 2022, Hard, 6/10, Looking for consecutive positive integers in an unsorted array
 4. May 25th 2022, Medium, 9/10, Binary Tree serialization and deserialization
+5. May 30th 2022, Easy, 8/10, Unival Subtrees in a Binary Tree
 
 
 **Any Notes About My Solution**
@@ -32,3 +33,4 @@ They will be in order of completion, not nessassarly when they are assigned.
 3. My idea for the solution came quickly, however broke when repeating numbers were added into the array, finding this solution took me a couple extra minutes, and accounted for the majority of my dev time for this challenge
 4. The most challenging thus far. This may have came from my misintrepretation of using a binary search tree rather than 
     a binary tree as specified in the problem. I was a bit rusty when creating my insert function. Overall Though but fun! I had to use a ton of recursion which is great practice.
+5. Another challenging one, marked as easy in the email, however I found this to be more difficult. My knowlage on trees and their implimantation must be   the main cause of the struggles that I face here. Overall My solution worked as I expected it too however it took me a bit to get it fully implemented correctally. This challenge gave me a bunch of pracice with python recursion and binary trees, and introduced me to the concept of unival trees. My solution included 3 helper methods, one to do a check if a subtree was unival, one to count the nodes of the sub tree, and one to iterate through each node in the orgional tree
