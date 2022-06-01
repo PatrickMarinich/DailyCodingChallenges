@@ -1,6 +1,8 @@
 # DailyCodingChallenges
 A Place where I upload my solutions to a daily coding challenge that I create from a challenge problem I am given from a mailing list.
 
+All of the completed challenges will be in the "Completed Challenges" Folder Any other files will be progess that I've made on other challenges, and have not finished yet, whenever they are finished they will be moved.
+
 **My goals with these challeges:**
 1. Continue to develop my software skills throughout the year.
 2. Learn new features within what language I am solving a problem in.
@@ -9,8 +11,6 @@ A Place where I upload my solutions to a daily coding challenge that I create fr
 5. Solve some intresting and tricky problems.
 
 The challenges come from the mailing list of DailyCodingProblem.com, I will include the possible solution that I came up with each day that I complete the challenge. These challenges leave alot of room up to the developer to create their own unique solution, thus my solutions may look completely different then if another person decided to do the specific challenge. 
-
-All of the completed challenges will be in the "Completed Challenges" Folder Any other files will be progess that I've made on other challenges, and have not finished yet, whenever they are finished they will be moved.
 
 **Personal Rules:**
 1. All solutions are thought of on my own, no thoretical help from external sources
