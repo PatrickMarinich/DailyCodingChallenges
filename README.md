@@ -45,8 +45,9 @@ Below is a table of entires for each of the challenges that I've completed, they
 5. May 30th 2022, Easy, 8/10, Unival Subtrees in a Binary Tree
 6. May 29th 2022, Medium, 7/10, Combinations with decoding
 7. May 31st 2022, Hard, 9.5/10, Largest non-adjecet sum in an array
+8. June 1st 2022, Medium, 3/10, Creating a schedule that calls a function after a delay
 
-**My Completion Rate (completed/assigned):** 7/9 
+**My Completion Rate (completed/assigned):** 8/10
 
 **Any Notes About My Solution**
 1. A bit tricky to find optimization to complete the bonus aspect
@@ -57,4 +58,4 @@ Below is a table of entires for each of the challenges that I've completed, they
 5. Another challenging one, marked as easy in the email, however I found this to be more difficult. My knowlage on trees and their implimantation must be   the main cause of the struggles that I face here. Overall My solution worked as I expected it too however it took me a bit to get it fully implemented correctally. This challenge gave me a bunch of pracice with python recursion and binary trees, and introduced me to the concept of unival trees. My solution included 3 helper methods, one to do a check if a subtree was unival, one to count the nodes of the sub tree, and one to iterate through each node in the orgional tree
 6. The difficulty of this challange came from the theory aspect rather then the implementation. Once I figured out the combinitoric formula, then it was a pretty easy implementation. I would give the implementation a 3 or 4 out of 10, however the difficulty of the combinitorics problem defnietly bumps up the challenge of this problem. Next time when presented with a problem like this, I should break out a pen and paper rather then trying to do mental gymnastics, I probably would have saved 15 or so munites. Overall a great combinitorics challenge!
 7. Increadibly difficult challenge. There were so many edge cases to account for which made finding a possible solution algorythem very difficult. My solution is probably not the most efficient way to accomplish this, however it is the one that I thought of after some trial and error. This definietly took some time and thinking to solve. My solution was able to keep the complexity in O(n) but I think that there may be a more efficient algorythem to be discovered in the future. I would like to come back to this problem in a year or two to see if my approach would have changed or if I would have new insight into a new possible solution. Overall I am happy that my solution did end up working as I thought albeit after some trial and error with different approaches.
-
+8. Before doing this challenge I have had experiance with exec and forking in C, and thus was easily able to transfer this to python. However I was unaware that the windows os does not directally support forking, thus I spent a decent amount of time trying to figure out why my fork solution did not work on my machine. However it would work on Mac or Linux as it a only a few lines of code and thus most likely does not have any bugs. The easy solution was just to use the python time.sleep and then invoking the function paramater. If this was written in C then I would have had to use a function pointer and an exec command. Overall not a difficult solution to think of at all given the past experiances ive had with this topic
