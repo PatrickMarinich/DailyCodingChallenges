@@ -10,6 +10,8 @@ A Place where I upload my solutions to a daily coding challenge that I create fr
 
 The challenges come from the mailing list of DailyCodingProblem.com, I will include the possible solution that I came up with each day that I complete the challenge. These challenges leave alot of room up to the developer to create their own unique solution, thus my solutions may look completely different then if another person decided to do the specific challenge. 
 
+All of the completed challenges will be in the "Completed Challenges" Folder Any other files will be progess that I've made on other challenges, and have not finished yet, whenever they are finished they will be moved.
+
 **Personal Rules:**
 1. All solutions are thought of on my own, no thoretical help from external sources
 2. I can use the internet for syntax or clarifications only (i.e Binary tree vs Binary search tree), not for help with potetional solutions.
