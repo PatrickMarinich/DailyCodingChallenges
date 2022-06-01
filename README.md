@@ -13,7 +13,7 @@ The challenges come from the mailing list of DailyCodingProblem.com, I will incl
 **Personal Rules:**
 1. All solutions are thought of on my own, no thoretical help from external sources
 2. I can use the internet for syntax or clarifications only (i.e Binary tree vs Binary search tree), not for help with potetional solutions.
-3. If I miss a day or cannot solve a problem in the moment, I can resume later and go back to it (not a timed problem)
+3. If I miss a day or cannot solve a problem in the moment, I can resume later and go back to it (these are not timed problems)
 4. This is a learning experiance as much as it is a challenge, so I will be trying to accomplish all of the bonus or follow-ups aswell to the best of my ability
 5. Document my thinking porcess as if somebody who has never coded is trying to understand what is accomplised
 
