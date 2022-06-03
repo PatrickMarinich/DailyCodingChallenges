@@ -10,7 +10,12 @@ A Place where I upload my solutions to a daily coding challenge that I create fr
 
 The challenges come from the mailing list of DailyCodingProblem.com, I will include the possible solution that I came up with each day that I complete the challenge. These challenges leave alot of room up to the developer to create their own unique solution, thus my solutions may look completely different then if another person decided to do the specific challenge. 
 
-All of the completed challenges will be in the "Completed Challenges" Folder Any other files will be progess that I've made on other challenges, and have not finished yet, whenever they are finished they will be moved.
+**Contents**
+* Completed Challenges - All of my solutions to the different daily challenges
+* Non-Completed Challenges - Any challenge that I have started but have not finished yet.
+* Setup - Any files nessassary for the set up of vscode or complieiers for different languages
+
+
 
 **Personal Rules:**
 1. All solutions are thought of on my own, no thoretical help from external sources
@@ -48,8 +53,9 @@ Below is a table of entires for each of the challenges that I've completed, they
 6. May 29th 2022, Medium, 7/10, Combinations with decoding
 7. May 31st 2022, Hard, 9.5/10, Largest non-adjecet sum in an array
 8. June 1st 2022, Medium, 3/10, Creating a schedule that calls a function after a delay
+9. June 2nd 2022, Medium, 1/10, Auto-Fill Implementation
 
-**My Completion Rate (completed/assigned):** 8/10
+**My Completion Rate (completed/assigned):** 9/11
 
 **Any Notes About My Solution**
 1. A bit tricky to find optimization to complete the bonus aspect
@@ -61,3 +67,4 @@ Below is a table of entires for each of the challenges that I've completed, they
 6. The difficulty of this challange came from the theory aspect rather then the implementation. Once I figured out the combinitoric formula, then it was a pretty easy implementation. I would give the implementation a 3 or 4 out of 10, however the difficulty of the combinitorics problem defnietly bumps up the challenge of this problem. Next time when presented with a problem like this, I should break out a pen and paper rather then trying to do mental gymnastics, I probably would have saved 15 or so munites. Overall a great combinitorics challenge!
 7. Increadibly difficult challenge. There were so many edge cases to account for which made finding a possible solution algorythem very difficult. My solution is probably not the most efficient way to accomplish this, however it is the one that I thought of after some trial and error. This definietly took some time and thinking to solve. My solution was able to keep the complexity in O(n) but I think that there may be a more efficient algorythem to be discovered in the future. I would like to come back to this problem in a year or two to see if my approach would have changed or if I would have new insight into a new possible solution. Overall I am happy that my solution did end up working as I thought albeit after some trial and error with different approaches.
 8. Before doing this challenge I have had experiance with exec and forking in C, and thus was easily able to transfer this to python. However I was unaware that the windows os does not directally support forking, thus I spent a decent amount of time trying to figure out why my fork solution did not work on my machine. However it would work on Mac or Linux as it a only a few lines of code and thus most likely does not have any bugs. The easy solution was just to use the python time.sleep and then invoking the function paramater. If this was written in C then I would have had to use a function pointer and an exec command. Overall not a difficult solution to think of at all given the past experiances ive had with this topic
+9. The solution to this problem came within 30 seconds or so. The implementation is just looking for substrings within a set of strings. depending on the language this implementation would be slightly different, but since I was in python the only command I have to use was find(). if I was solving this problem in C for example i would have had to use the strstr() function. Overall not very difficult, I did disregard the hint however as I could not think of a data structure that would be faster then a list. Also using a for each loop is the most convient way to implement this solution (in python anyways)
