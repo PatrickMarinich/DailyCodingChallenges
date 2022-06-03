@@ -1,6 +1,8 @@
 # DailyCodingChallenges
 A Place where I upload my solutions to a daily coding challenge that I create from a challenge problem I am given from a mailing list.
 
+All of the completed challenges will be in the "Completed Challenges" Folder Any other files will be progess that I've made on other challenges, and have not finished yet, whenever they are finished they will be moved.
+
 **My goals with these challeges:**
 1. Continue to develop my software skills throughout the year.
 2. Learn new features within what language I am solving a problem in.
@@ -14,8 +16,6 @@ The challenges come from the mailing list of DailyCodingProblem.com, I will incl
 * Completed Challenges - All of my solutions to the different daily challenges
 * Non-Completed Challenges - Any challenge that I have started but have not finished yet.
 * Setup - Any files nessassary for the set up of vscode or complieiers for different languages
-
-
 
 **Personal Rules:**
 1. All solutions are thought of on my own, no thoretical help from external sources
