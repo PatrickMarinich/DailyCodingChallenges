@@ -55,7 +55,7 @@ Below is a table of entires for each of the challenges that I've completed, they
 10. June 5th 2022, Medium, 3/10, Monte Carlo Approx of Pi
 11. June 7th 2022, Easy, 2/10, Creating a DataLog Class
 
-**My Completion Rate (completed/assigned):** 10/16
+**My Completion Rate (completed/assigned):** 11/16
 
 **Any Notes About My Solution**
 1. A bit tricky to find optimization to complete the bonus aspect
