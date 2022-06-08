@@ -54,8 +54,10 @@ Below is a table of entires for each of the challenges that I've completed, they
 7. May 31st 2022, Hard, 9.5/10, Largest non-adjecet sum in an array
 8. June 1st 2022, Medium, 3/10, Creating a schedule that calls a function after a delay
 9. June 2nd 2022, Medium, 1/10, Auto-Fill Implementation
+10. June 5th 2022, Medium, 3/10, Monte Carlo Approx of Pi
+11. June 7th 2022, Easy, 2/10, Creating a DataLog Class
 
-**My Completion Rate (completed/assigned):** 9/11
+**My Completion Rate (completed/assigned):** 10/16
 
 **Any Notes About My Solution**
 1. A bit tricky to find optimization to complete the bonus aspect
@@ -68,3 +70,5 @@ Below is a table of entires for each of the challenges that I've completed, they
 7. Increadibly difficult challenge. There were so many edge cases to account for which made finding a possible solution algorythem very difficult. My solution is probably not the most efficient way to accomplish this, however it is the one that I thought of after some trial and error. This definietly took some time and thinking to solve. My solution was able to keep the complexity in O(n) but I think that there may be a more efficient algorythem to be discovered in the future. I would like to come back to this problem in a year or two to see if my approach would have changed or if I would have new insight into a new possible solution. Overall I am happy that my solution did end up working as I thought albeit after some trial and error with different approaches.
 8. Before doing this challenge I have had experiance with exec and forking in C, and thus was easily able to transfer this to python. However I was unaware that the windows os does not directally support forking, thus I spent a decent amount of time trying to figure out why my fork solution did not work on my machine. However it would work on Mac or Linux as it a only a few lines of code and thus most likely does not have any bugs. The easy solution was just to use the python time.sleep and then invoking the function paramater. If this was written in C then I would have had to use a function pointer and an exec command. Overall not a difficult solution to think of at all given the past experiances ive had with this topic
 9. The solution to this problem came within 30 seconds or so. The implementation is just looking for substrings within a set of strings. depending on the language this implementation would be slightly different, but since I was in python the only command I have to use was find(). if I was solving this problem in C for example i would have had to use the strstr() function. Overall not very difficult, I did disregard the hint however as I could not think of a data structure that would be faster then a list. Also using a for each loop is the most convient way to implement this solution (in python anyways)
+10. The pure math implementation challenges are very fun to undertake. It was very satisifying to find my approximation of pi using the area of a circle and a square. It was also pretty cool to run this simulation and really see the number approach 3.141. Overall not a very difficult challenge, but a fun one.
+11. The first challenge that involved making a class other then a node. It was pretty simple to implement as it was just an array, however it was nice to use OOP programming within this challenge as it has been a little while since I have done work with OOP. Overall I liked the idea of the datalog, and anthough it was pretty easy to implement it was still a nice challenge to complete.
