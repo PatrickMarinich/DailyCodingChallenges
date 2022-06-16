@@ -2,9 +2,20 @@
 A Place where I upload my solutions to a daily coding challenge that I create from a challenge problem I am given from a mailing list.
 
 **Contents**
-* Completed Challenges - All of my solutions to the different daily challenges
-* Non-Completed Challenges - Any challenge that I have started but have not finished yet.
-* Setup - Any files nessassary for the set up of vscode or complieiers for different languages
+* Completed Challenges 
+    * All of my solutions to the different daily challenges
+    * These Files all Include:
+        * The Probelm
+        * My Solution
+        * Tests
+        * Good Documentation on my thoughts and code (Hopefully!)
+* Non-Completed Challenges
+    * Any challenge that I have read from the email or started but have not finished yet.
+    * These may be a files with an untested, partial, incomplete, or incorrect solution that I came up with
+    * These may be a files with code snippits or possible ideas
+    * These may even be just the problem commented with no code so I can start it later
+* Setup
+    * Any files nessassary for the set up of vscode or complieiers for different languages
 
 **My goals with these challeges:**
 1. Continue to develop my software skills throughout the year.
@@ -16,8 +27,8 @@ A Place where I upload my solutions to a daily coding challenge that I create fr
 The challenges come from the mailing list of DailyCodingProblem.com, I will include the possible solution that I came up with each day that I complete the challenge. These challenges leave alot of room up to the developer to create their own unique solution, thus my solutions may look completely different then if another person decided to do the specific challenge. 
 
 **Personal Rules:**
-1. All solutions are thought of on my own, no thoretical help from external sources
-2. I can use the internet for syntax or clarifications only (i.e Binary tree vs Binary search tree), not for help with potetional solutions.
+1. All solutions are my own, no code is from anybody else
+2. If a topic or question is outside of my knowledge, then I may use the internet to research the topic without looking up a specific code solution
 3. If I miss a day or cannot solve a problem in the moment, I can resume later and go back to it (these are not timed problems)
 4. This is a learning experiance as much as it is a challenge, so I will be trying to accomplish all of the bonus or follow-ups aswell to the best of my ability
 5. Document my thinking porcess as if somebody who has never coded is trying to understand what is accomplised
