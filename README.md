@@ -54,8 +54,10 @@ Below is a table of entires for each of the challenges that I've completed, they
 9. June 2nd 2022, Medium, 1/10, Auto-Fill Implementation
 10. June 5th 2022, Medium, 3/10, Monte Carlo Approx of Pi
 11. June 7th 2022, Easy, 2/10, Creating a DataLog Class
+12. June 12th 2022, Easy, 1.5/10, Finding Minimum Classes needed given time intervals
+13. June 13th 2022 Easy, 3/10, Finding an intersencting node in 2 linked lists
 
-**My Completion Rate (completed/assigned):** 11/16
+**My Completion Rate (completed/assigned):** 13/23
 
 **Any Notes About My Solution**
 1. A bit tricky to find optimization to complete the bonus aspect
@@ -70,3 +72,6 @@ Below is a table of entires for each of the challenges that I've completed, they
 9. The solution to this problem came within 30 seconds or so. The implementation is just looking for substrings within a set of strings. depending on the language this implementation would be slightly different, but since I was in python the only command I have to use was find(). if I was solving this problem in C for example i would have had to use the strstr() function. Overall not very difficult, I did disregard the hint however as I could not think of a data structure that would be faster then a list. Also using a for each loop is the most convient way to implement this solution (in python anyways)
 10. The pure math implementation challenges are very fun to undertake. It was very satisifying to find my approximation of pi using the area of a circle and a square. It was also pretty cool to run this simulation and really see the number approach 3.141. Overall not a very difficult challenge, but a fun one.
 11. The first challenge that involved making a class other then a node. It was pretty simple to implement as it was just an array, however it was nice to use OOP programming within this challenge as it has been a little while since I have done work with OOP. Overall I liked the idea of the datalog, and anthough it was pretty easy to implement it was still a nice challenge to complete.
+12. Overall not a difficult solution, it came pretty fast, the challenge would be to optimize this solution. Overall I enjoy these more practical challenges where the problem is something that can directally be seen in real life rather then an abstract concept that has application but that applicaiton is not directally represented in the problem.
+13. Since the nodes were considered to be the same if the value was the same, then it was a pretty easy task as I was able to just store the values of the first linked list in an array, and then use those saved values to check the second list rather then interating through the entire linked list multiple times
+overall an interesting though challenge however not too difficult. Due to work and other things I have fallen behind on completing some of these challenges, the brightside is now I have a pool to challenges that I can tackle when I find some of them interesting and have the spare time to do them! Cannot wait to complete more of these challenges in the future.
