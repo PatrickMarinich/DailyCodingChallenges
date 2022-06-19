@@ -53,7 +53,7 @@ The challenges come from the mailing list of DailyCodingProblem.com, I will incl
 In each of the code files I do some documentation on my thought process behind what my code does, however it may not be the most detailed explination of what is exactly going on, I am hoping to improve my documentation skills overtime by completing these challenges. Below are some notes on the challenges as well they are numbered in order of completion.
 
 Below is a table of entires for each of the challenges that I've completed, they are in the format of:
-* Completed #, Date assigned, Difficulty(From The Email), My Difficulty Score, topic
+* Completed #, Date assigned, Difficulty Level, My Difficulty Score, Breif Topic Description
 
 **Completed Days:**
 1. May 23rd 2022, Easy, 2/10, Checking for summed values in an Array
