@@ -1,6 +1,8 @@
 # DailyCodingChallenges
 A Place where I upload my solutions to a daily coding challenge that I create from a challenge problem I am given from a mailing list.
 
+**Note: The Challenge Solutions are 100% My Own, However the Problems are not my own, they are from DailyCodingChallenge.com**
+
 **Contents**
 * Completed Challenges 
     * All of my solutions to the different daily challenges
@@ -67,8 +69,10 @@ Below is a table of entires for each of the challenges that I've completed, they
 11. June 7th 2022, Easy, 2/10, Creating a DataLog Class
 12. June 12th 2022, Easy, 1.5/10, Finding Minimum Classes needed given time intervals
 13. June 13th 2022 Easy, 3/10, Finding an intersencting node in 2 linked lists
+14. June 16th 2022, Hard, 6/10, Auto Complete using special characters
+15. June 17th 2022, Medium, 4/10, Linked List backwards removal
 
-**My Completion Rate (completed/assigned):** 13/23
+**My Completion Rate (completed/assigned):** 15/27
 
 **Any Notes About My Solution**
 1. A bit tricky to find optimization to complete the bonus aspect
@@ -86,3 +90,5 @@ Below is a table of entires for each of the challenges that I've completed, they
 12. Overall not a difficult solution, it came pretty fast, the challenge would be to optimize this solution. Overall I enjoy these more practical challenges where the problem is something that can directally be seen in real life rather then an abstract concept that has application but that applicaiton is not directally represented in the problem.
 13. Since the nodes were considered to be the same if the value was the same, then it was a pretty easy task as I was able to just store the values of the first linked list in an array, and then use those saved values to check the second list rather then interating through the entire linked list multiple times
 overall an interesting though challenge however not too difficult. Due to work and other things I have fallen behind on completing some of these challenges, the brightside is now I have a pool to challenges that I can tackle when I find some of them interesting and have the spare time to do them! Cannot wait to complete more of these challenges in the future.
+14. This was an interesting thought experiment, I liked the challenge of trying to figure out an easy way to implement something such as an auto correct or wildcard character. Overall once I had the idea for the * character the rest of the puzzle filled in iteself, overall the code was not anything too overly complex, the challenge was more difficult due to the idea of wildcards themselves.
+15. This challenge was a simple ask however turned out to be a bit more challenging then expected. My first thought eneded up being a correct solution to this problem, but I sat on this problem for a couple of days trying to find an efficient way to only do it with one pass through. I settled on recursive calls of a function. This may not be the most efficient implementation, but it definietly passed the requirements of the challenge.
