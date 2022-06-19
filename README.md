@@ -72,8 +72,6 @@ Below is a table of entires for each of the challenges that I've completed, they
 14. June 16th 2022, Hard, 6/10, Auto Complete using special characters
 15. June 17th 2022, Medium, 4/10, Linked List backwards removal
 
-**My Completion Rate (completed/assigned):** 15/27
-
 **Any Notes About My Solution**
 1. A bit tricky to find optimization to complete the bonus aspect
 2. My first solution answered the follow up, I am upset with myself that I did not even consider the easier approach by just using division, I think that the tag of HARD from the email led me to think of more complex solutions without even considering easy ones
