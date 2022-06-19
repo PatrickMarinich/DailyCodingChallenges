@@ -1,7 +1,7 @@
 # DailyCodingChallenges
 A Place where I upload my solutions to a daily coding challenge that I create from a challenge problem I am given from a mailing list.
 
-**Note: The Challenge Solutions are 100% My Own, However the Problems are not my own, they are from DailyCodingChallenge.com**
+**Note: ** The challenge solutions in the completed challenges folder are 100% my own, however, the problems themselves are not my own, they are from DailyCodingChallenge.com
 
 **Contents**
 * Completed Challenges 
